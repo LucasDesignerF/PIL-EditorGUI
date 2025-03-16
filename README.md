@@ -161,25 +161,3 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 </div>
 ```
 
----
-
-### Personalizações e Estilo
-1. **Cabeçalho Visual**: Usa badges do Shields.io e um GIF animado para atrair atenção.
-2. **Estrutura Clara**: Seções bem definidas com emojis e títulos em negrito.
-3. **Código Destacado**: Exemplos de exportação em blocos de código com sintaxe colorida.
-4. **Toque Pessoal**: Inclui uma seção sobre você com foto de perfil (substitua o link do avatar pelo seu real no GitHub).
-5. **Design Moderno**: Uso de cores, alinhamento centralizado e badges dinâmicos (ex.: estrelas e último commit).
-
----
-
-### Como Adicionar ao GitHub
-1. Crie um arquivo chamado `README.md` na raiz do seu repositório.
-2. Copie e cole o conteúdo acima.
-3. Substitua o link do avatar na seção "Sobre o Autor" pelo seu URL real do GitHub (ex.: `https://avatars.githubusercontent.com/u/SEU_ID?v=4`).
-4. (Opcional) Adicione um GIF ou screenshot na seção "Demonstração" e faça upload para o repositório ou use um link externo.
-5. Commite e envie para o GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Adiciona README estilizado"
-   git push origin main
-   ```
