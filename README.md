@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License MIT">
   <img src="https://img.shields.io/github/stars/LucasDesignerF/PIL-EditorGUI?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/pypi/v/PIL-EditorGUI?style=for-the-badge" alt="PyPI Version">
+  <img src="https://img.shields.io/pypi/v1.9.4/PIL-EditorGUI?style=for-the-badge" alt="PyPI Version">
   <br><br>
   <h1 style="font-size: 3em; color: #00d4ff;">PIL-EditorGUI</h1>
   <p style="font-size: 1.2em; color: #b0b0b0;">Um editor de imagens simples e poderoso com suporte a múltiplas camadas e exportação para código!</p>
